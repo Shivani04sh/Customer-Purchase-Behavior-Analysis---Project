@@ -1,4 +1,4 @@
-# **Sales and Customer/Product Analysis with Power BI**
+# **Sales and Customer Purchase Behaviour Analysis**
 
 ### **Overview**
 This repository highlights my ability to perform **Data Analysis** and **Dashboard Creation** using **Power BI**. It contains a dataset based on sales performance, customer, and product profitability, cleaned and transformed for analysis. The project focuses on showcasing my skills in **data cleaning**, **data visualization**, and **interactive dashboards**.
